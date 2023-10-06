@@ -1,0 +1,2 @@
+"C:\Program Files\Epic Games\UE_4.25\Engine\Binaries\Win64\UE4Editor.exe" "C:\Users\jamie\Documents\Unreal Projects\GameDev1Ass2\GameDev1Ass2.uproject" /Game/Maps/CourseMap -server -log
+"C:\Program Files\Epic Games\UE_4.25\Engine\Binaries\Win64\UE4Editor.exe" "C:\Users\jamie\Documents\Unreal Projects\GameDev1Ass2\GameDev1Ass2.uproject" 127.0.0.1 -game -log
